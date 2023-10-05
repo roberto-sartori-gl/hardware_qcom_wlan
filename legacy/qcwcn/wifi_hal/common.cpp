@@ -16,6 +16,7 @@
 
 #include <stdlib.h>
 #include <linux/pkt_sched.h>
+#include <linux-private/linux/fib_rules.h>
 #include <netlink/object-api.h>
 #include <netlink-private/object-api.h>
 #include <netlink-private/types.h>

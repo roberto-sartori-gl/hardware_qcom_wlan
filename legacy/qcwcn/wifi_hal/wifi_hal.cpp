@@ -60,6 +60,7 @@
 #include <linux/filter.h>
 #include <linux/errqueue.h>
 
+#include <linux-private/linux/fib_rules.h>
 #include <linux/pkt_sched.h>
 #include <netlink/object-api.h>
 #include <netlink/netlink.h>
